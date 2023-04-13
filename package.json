@@ -1,5 +1,5 @@
 {
-  "name": "chat-gpt",
+  "name": "@karankraina/chat-gpt",
   "version": "1.0.0",
   "description": "Wrapper for openai package to have conversations",
   "main": "lib/index.js",
