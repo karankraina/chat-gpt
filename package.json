@@ -11,6 +11,9 @@
     "test:dev": "jest --config jest.config.js --watchAll",
     "docs": "jsdoc2md --files src/**/*.ts --configure ./jsdoc2md.json > API.md"
   },
+  "optionalDependencies": {
+    "fsevents": "2.3.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/karankraina/chat-gpt.git"
